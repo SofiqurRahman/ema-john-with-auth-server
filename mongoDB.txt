@@ -1,0 +1,4 @@
+DATABASE NAME: emaJohnStoreOne
+COLLECTION NAME: productsOne
+user name: emaJohn
+password: emaJohn48$.
